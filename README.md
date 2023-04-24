@@ -1,6 +1,6 @@
 # PrintF Project
 
-Foobar is a Python library for dealing with word pluralization.
+PrintF Group Project for the ALX SE programme.
 
 ## Team 
 
